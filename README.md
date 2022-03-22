@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Souleymane</h1>
-<h3 align="center">An undergraduate student passionate about economics</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <a href="https://twitter.com/quietuspersona" target="blank"><img src="https://img.shields.io/twitter/follow/quietuspersona?logo=twitter&style=for-the-badge" alt="quietuspersona" /></a> </p>
 
