@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Souleymane</h1>
 <h3 align="center"></h3>
 
-<p align="left"> <a href="https://twitter.com/quietuspersona" target="blank"><img src="https://img.shields.io/twitter/follow/quietuspersona?logo=twitter&style=for-the-badge" alt="S_FayeEcon" /></a> </p>
+<p align="left"> <a href="https://twitter.com/S_FayeEcon" target="blank"><img src="https://img.shields.io/twitter/follow/S_FayeEcon?logo=twitter&style=for-the-badge" alt="S_FayeEcon" /></a> </p>
 
 - 🔭 I’m currently working on [lost_items](https://1drv.ms/u/s!AveJGY--9RhlgsoF5o-fwNSQhNlzGw?e=nfKcUp)
 
