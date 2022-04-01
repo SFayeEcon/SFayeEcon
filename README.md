@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/S_FayeEcon" target="blank"><img src="https://img.shields.io/twitter/follow/S_FayeEcon?logo=twitter&style=for-the-badge" alt="S_FayeEcon" /></a> </p>
 
-- 🔭 I’m currently working on [lost_items](https://1drv.ms/u/s!AveJGY--9RhlgsoF5o-fwNSQhNlzGw?e=nfKcUp)
+- 🔭 I’m currently working on [lost_items](https://colab.research.google.com/drive/1t86iUWhaiaaAswa0RnkqgUrW6tWRSiCo?usp=sharing)
 
 - 📫 How to reach me **souleymane.faye@etu.univ-amu.fr**
 
