@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/S_FayeEcon" target="blank"><img src="https://img.shields.io/twitter/follow/S_FayeEcon?logo=twitter&style=for-the-badge" alt="S_FayeEcon" /></a> </p>
 
-- 🔭 I’m currently working on []()
-
 - 📫 How to reach me **souleymane.faye@etu.univ-amu.fr**
 
 <h3 align="left">Connect with me:</h3>
